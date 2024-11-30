@@ -1,6 +1,44 @@
-git add src/*.tsx
-git add src-tauri/src/*.rs
-git add src-tauri/Cargo.toml
-git add package.json
-git add vite.config.ts
-git add src-tauri/tauri.conf.json
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/dist
+/build
+
+# Tauri
+/src-tauri/target
+/src-tauri/Cargo.lock
+/src-tauri/WixTools
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+.env
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Your existing ignores
+/tamed_tree/
+treetamer.sh
