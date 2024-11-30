@@ -1,4 +1,6 @@
-/tamed_
-tree/
-treetamer.sh
-node_modules
+git add src/*.tsx
+git add src-tauri/src/*.rs
+git add src-tauri/Cargo.toml
+git add package.json
+git add vite.config.ts
+git add src-tauri/tauri.conf.json
