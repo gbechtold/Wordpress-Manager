@@ -1,0 +1,10 @@
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/libidna-0d7ca3778e7dcf20.rmeta: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/deprecated.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/punycode.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/uts46.rs
+
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/libidna-0d7ca3778e7dcf20.rlib: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/deprecated.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/punycode.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/uts46.rs
+
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/idna-0d7ca3778e7dcf20.d: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/deprecated.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/punycode.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/uts46.rs
+
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/lib.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/deprecated.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/punycode.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/uts46.rs:

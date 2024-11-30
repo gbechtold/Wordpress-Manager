@@ -1,5 +1,4 @@
-// src-tauri/src/main.rs
-use tauri::Manager;
+// Needed imports
 use serde::{Serialize, Deserialize};
 use tokio::process::Command;
 use std::path::PathBuf;
@@ -74,7 +73,6 @@ async fn handle_file_operation(operation: FileOperation) -> Result<(), String> {
                 .map_err(|e| format!("Delete failed: {}", e))?;
         }
         FileOperationType::Chmod => {
-            // Implementation for chmod using platform-specific operations
             #[cfg(unix)]
             {
                 use std::os::unix::fs::PermissionsExt;

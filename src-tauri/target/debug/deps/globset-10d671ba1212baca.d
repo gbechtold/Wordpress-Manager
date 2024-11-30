@@ -1,0 +1,10 @@
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/libglobset-10d671ba1212baca.rmeta: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/fnv.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/glob.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/pathutil.rs
+
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/libglobset-10d671ba1212baca.rlib: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/fnv.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/glob.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/pathutil.rs
+
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/globset-10d671ba1212baca.d: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/fnv.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/glob.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/pathutil.rs
+
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/lib.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/fnv.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/glob.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/globset-0.4.15/src/pathutil.rs:

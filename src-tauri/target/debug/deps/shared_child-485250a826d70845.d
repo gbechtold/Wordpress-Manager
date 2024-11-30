@@ -1,0 +1,10 @@
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/libshared_child-485250a826d70845.rmeta: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/mod.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/unix.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/unix.rs
+
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/libshared_child-485250a826d70845.rlib: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/mod.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/unix.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/unix.rs
+
+/Users/guntrambechtold/Documents/Projects/BusinessProjects/Wordpress Manager/src-tauri/target/debug/deps/shared_child-485250a826d70845.d: /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/lib.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/mod.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/unix.rs /Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/unix.rs
+
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/lib.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/mod.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/sys/unix.rs:
+/Users/guntrambechtold/.cargo/registry/src/index.crates.io-6f17d22bba15001f/shared_child-1.0.1/src/unix.rs:
